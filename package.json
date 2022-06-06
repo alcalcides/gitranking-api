@@ -1,0 +1,10 @@
+{
+  "name": "gitranking-api",
+  "version": "0.1.0",
+  "description": "Counters commits",
+  "main": "index.js",
+  "repository": "git@github.com:alcalcides/gitranking-api.git",
+  "author": "Alcides Augusto Bezerra Neto",
+  "license": "MIT",
+  "private": false
+}
