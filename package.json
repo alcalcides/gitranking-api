@@ -1,30 +1,30 @@
 {
-  "name": "gitranking-api",
-  "version": "0.1.0",
-  "description": "Counters commits",
-  "main": "index.js",
-  "repository": "git@github.com:alcalcides/gitranking-api.git",
-  "author": "Alcides Augusto Bezerra Neto",
-  "license": "MIT",
-  "private": false,
-  "scripts": {
-    "dev": "nodemon src/server.ts",
-    "prepare": "husky install"
-  },
-  "dependencies": {
-    "express": "^4.18.1"
-  },
-  "devDependencies": {
-    "@types/express": "^4.17.13",
-    "@types/node": "^17.0.40",
-    "@typescript-eslint/eslint-plugin": "^5.27.1",
-    "@typescript-eslint/parser": "^5.27.1",
-    "eslint": "^8.17.0",
-    "husky": "^8.0.1",
-    "lint-staged": "^13.0.0",
-    "nodemon": "^2.0.16",
-    "prettier": "^2.6.2",
-    "ts-node": "^10.8.1",
-    "typescript": "^4.7.3"
-  }
+	"name": "gitranking-api",
+	"version": "0.1.0",
+	"description": "Counters commits",
+	"main": "index.js",
+	"repository": "git@github.com:alcalcides/gitranking-api.git",
+	"author": "Alcides Augusto Bezerra Neto",
+	"license": "MIT",
+	"private": false,
+	"scripts": {
+		"dev": "nodemon src/server.ts",
+		"prepare": "husky install"
+	},
+	"dependencies": {
+		"express": "^4.18.1"
+	},
+	"devDependencies": {
+		"@types/express": "^4.17.13",
+		"@types/node": "^17.0.40",
+		"@typescript-eslint/eslint-plugin": "^5.27.1",
+		"@typescript-eslint/parser": "^5.27.1",
+		"eslint": "^8.17.0",
+		"husky": "^8.0.1",
+		"lint-staged": "^13.0.0",
+		"nodemon": "^2.0.16",
+		"prettier": "^2.6.2",
+		"ts-node": "^10.8.1",
+		"typescript": "^4.7.3"
+	}
 }
