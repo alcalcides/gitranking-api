@@ -15,7 +15,9 @@
 		"test": "jest"
 	},
 	"engines": {
-		"node": "16.15.1"
+		"node": "16.15.1",
+		"npm": "8.12.1",
+		"yarn": "1.22.18"
 	},
 	"dependencies": {
 		"express": "^4.18.1"
